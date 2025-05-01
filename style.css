@@ -1,0 +1,24 @@
+*{
+
+}
+
+body{ 
+	justify-content: center;
+	text-align:center;
+	background: url(bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.header{ 
+	background-color: #FCFCFC;
+	padding: 5px;
+}
+
+.container{
+	background-color: #FCFCFC;
+	padding: 40px;
+	width: 550px;
+	margin-top: 120px;
+	opacity
+}
